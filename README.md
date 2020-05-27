@@ -1,2 +1,2 @@
 # project: Java09-Lesson03-Demo
-version: todo-app-2.0-SNAPSHOT
+version: todo-app-2.0
